@@ -8,7 +8,16 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.3.4"
+    "axios": "^1.6.2",
+    "element-plus": "^2.4.3",
+    "es6-promise": "^4.2.8",
+    "video.js": "^7.21.5",
+    "vue": "^3.3.4",
+    "vue-axios": "^3.5.2",
+    "vue-router": "^4.2.5",
+    "vue-video-player": "^6.0.0",
+    "vuex": "^4.1.0",
+    "vuex-persistedstate": "^4.1.0"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.4.0",

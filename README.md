@@ -27,3 +27,10 @@ npm run dev
 ```sh
 npm run build
 ```
+
+
+### navHeader.vue 页面头部
+### community.vue 课程列表页面
+### videoList.vue 课程内容页面
+### manageStudents.vue 学生管理页面
+### inCircle.vue 社区圈子内容页面
